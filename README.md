@@ -16,7 +16,7 @@ Plugin List:
 
 - Dynmap (WIP)
   - creates a web-based live time map of all previously loaded chunks on the map, along with player locations!
-  - map link: 
+  - map link: http://184.58.139.118:8123/
   - https://dev.bukkit.org/projects/dynmap
 
 - Killing Stats:
