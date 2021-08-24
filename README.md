@@ -1,5 +1,7 @@
 ---*---*---KT's 1.17 Spigot server!!!---*---*---
-
+*** message me @ApeX #6439 if any issues arise ***
+Server should be open 24/7, so hop on anytime!
+The server is vanilla 1.17.1, but some plugins have been added to increase quality of life.
 
 Plugin List:
 
