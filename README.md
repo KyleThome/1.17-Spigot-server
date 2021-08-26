@@ -40,10 +40,6 @@ Plugin List:
    - Creates commands to easily allow a player to set a home base and teleport back to it, with minor restrictions
    - https://dev.bukkit.org/projects/set-homes
 
-- Multibreak
-   - A quality of life plugin that allows ores to be mined in one fell swoop.
-   - https://dev.bukkit.org/projects/multibreak
-
 
 
 
