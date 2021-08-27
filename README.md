@@ -47,6 +47,14 @@ Plugin List:
 - Custom map images
   - as it sounds! use command /getmap <imageURL> to get a custom map!
   - https://dev.bukkit.org/projects/custom-map-images
+   
+- UltimateAutoRestart:
+   - remotely restarts the server every day at 11pm. keeps things ticking consistently!
+   - https://dev.bukkit.org/projects/ultimateautorestart-the-best-auto-restart-plugin
+   
+- ForceChunkLoader:
+   - can use commands to force chunks to load. useful for farms!
+   - https://dev.bukkit.org/projects/chunkloader-force-chunks-to-load
 
 
 
