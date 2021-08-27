@@ -15,7 +15,7 @@ Plugin List:
   - for admin use, keeps entity counts/ground items low to increase amt of players able to be on at once
   - https://dev.bukkit.org/projects/clearlagg
 
-- Dynmap (WIP)
+- Dynmap
   - creates a web-based live time map of all previously loaded chunks on the map, along with player locations!
   - map link: http://184.58.139.118:8123/
   - https://dev.bukkit.org/projects/dynmap
@@ -40,6 +40,13 @@ Plugin List:
    - Creates commands to easily allow a player to set a home base and teleport back to it, with minor restrictions
    - https://dev.bukkit.org/projects/set-homes
 
+- TPAmod
+  - allows teleportation between people through chat commands.
+  - https://dev.bukkit.org/projects/pixeltpa-simple
+
+- Custom map images
+  - as it sounds! use command /getmap <imageURL> to get a custom map!
+  - https://dev.bukkit.org/projects/custom-map-images
 
 
 
