@@ -51,6 +51,10 @@ Plugin List:
 - ForceChunkLoader:
    - can use commands to force chunks to load. useful for farms!
    - https://dev.bukkit.org/projects/chunkloader-force-chunks-to-load
+   
+- DiscordIntegration:
+   - works in tandem with ChatBot3000 to display discord messages in game, and vice versa.
+   - https://dev.bukkit.org/projects/discordintegration-spigot
 
 
 
